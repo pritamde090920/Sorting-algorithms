@@ -1,0 +1,3 @@
+Time complexity of radix sort is given by O(nk) where n in the number of inputs and k is the number of digits in the largest input.
+
+If k<<n then the complexity is reduces to O(n).
