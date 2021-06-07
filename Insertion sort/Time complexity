@@ -1,0 +1,7 @@
+Worst Case:-O(n^2)
+Average Case:-Θ(n^2)
+Best Case:-Ω(n)
+
+Best case will be when the input array is already sorted.
+
+Number of comparisons in each pass of insertion sort over an array of n elements will be maximum (n-1).
