@@ -1,0 +1,3 @@
+Worst Case:-O(nlogn)
+Average Case:-Θ(nlogn)
+Best Case:-Ω(nlogn)
