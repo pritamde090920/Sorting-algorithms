@@ -1,0 +1,6 @@
+Worst Case:-O(n^2)
+Average Case:-Θ(nlogn)
+Best Case:-Ω(nlogn)
+
+Worst case will be when the input array is already sorted. Also worst case will be when the pivot element is selcted in such a manner that after partition of n-element array,
+the two sub-arrays formed contains 1 and (n-1) elements respectively.
