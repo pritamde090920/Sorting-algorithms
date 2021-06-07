@@ -1,0 +1,3 @@
+Worst Case:-O(n^2)
+Average Case:-Θ(n^2)
+Best Case:-Ω(n^2)
